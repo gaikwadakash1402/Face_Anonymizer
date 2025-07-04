@@ -13,5 +13,10 @@ This project provides a simple and effective way to anonymize faces in real-time
 
 ---
 
-## 📁 Project Structure
+## Tools Used
 
+  - ✅ MediaPipe
+
+  - ✅ OpenCV
+
+  - ✅ Python 3.7+
